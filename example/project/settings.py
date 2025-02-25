@@ -28,7 +28,8 @@ DEBUG = True
 ALLOWED_HOSTS = [
     '127.0.0.1',
     'localhost',
-    '0.0.0.0'
+    '0.0.0.0',
+    'awkkoskowcsw0s40k4cwow4s.158.160.72.1.sslip.io'
 ]
 
 # Application definition
